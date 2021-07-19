@@ -1,5 +1,5 @@
 
-num_translate_adv = {"zero": "ноль", "one": "один", "two": "два", "three": "три", "four": "четыре", "five": "пять", "six": "шесть", "seven": "семь", "eight": "восемь", "nine": "девять", "ten": "десять"}
+num_translate_adv = {"zero": "ноль", "one": "один", "two": "два", "three": "три", "four": "четыре", "five": "пять", "six": "шесть", "seven": "семь", "eight": "восемь", "nine": "девять", "ten": "десять","eleven": "одиннадцать"}
 
 def num(eng):
   return num_translate_adv(eng)
